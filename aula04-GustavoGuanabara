@@ -1,0 +1,13 @@
+package primeiroprograma;
+
+
+public class PrimeiroPrograma {
+
+   
+    public static void main(String[] args) {
+        System.out.print("Olá, Mundo, ");
+        System.out.println("para digitar mais rapido o comando ao lado digitei sout e apertei tab,");
+        System.out.println("o public static void: digite psvm e aperte a tecla tab");
+    }
+    
+}
